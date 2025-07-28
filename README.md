@@ -9,9 +9,6 @@ Frameworks/Libraries: Bootstrap, React, Flask
 Tools: Git, GitHub, VS Code, Jupyter, Figma
 Other Interests: Quantum Computing, Biometric Systems, UI/UX, and Android Development
 
-📫 Connect with Me
-LinkedIn: https://www.linkedin.com/in/kratika-singh-40a3b231b
-Email: kratikasingh344@gmail.com
 
 ### 📊 My GitHub Stats
 
@@ -21,6 +18,7 @@ Email: kratikasingh344@gmail.com
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kratika0529&layout=compact&theme=radical&hide_border=true&border_radius=10" alt="Most Used Languages"/>
 </p>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kratika-singh-40a3b231b)
 ---
 
 <!--
