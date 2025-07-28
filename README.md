@@ -23,10 +23,6 @@ Email: kratikasingh344@gmail.com
 
 ---
 
-### 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile/)
-
 <!--
 **kratika0529/kratika0529** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
